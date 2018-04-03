@@ -11,7 +11,7 @@ const Footer = () => (
           <span>Instructions </span>
         </div>
         <div className="col-6 text-left">
-          <a href=""><i className="icon-printer"></i></a>
+          <a href="https://drive.google.com/file/d/1n4FUSaDJokuw0cIw7yoBuV8O5dmgMcSH/view?usp=sharing"><i className="icon-printer"></i></a>
         </div>
       </div>
       <div className="col-6 col-md-4 space  align-self-center text-center">
